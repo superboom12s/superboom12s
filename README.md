@@ -1,4 +1,9 @@
-### Hi there 👋
+<!-- Thanks to Anurag Hazra! -->
+![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=superboom12s&show_icons=true&hide=contribs,prs&theme=radical#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=catppuccin_latte#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+
+
 
 <!--
 **superboom12s/superboom12s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
