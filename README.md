@@ -9,8 +9,16 @@
 (And a private repository that will be published soon)
 
 # Amazing proyects:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=superboom12s&repo=DecimalProblem-Fix&theme=radical#gh-dark-mode-only)](https://github.com/superboom12s/DecimalProblem-Fix#gh-dark-mode-only)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=superboom12s&repo=DecimalProblem-Fix&theme=catppuccin_latte#gh-light-mode-only)](https://github.com/superboom12s/DecimalProblem-fix#gh-light-mode-only)
+<a href="https://github.com/superboom12s/DecimalProblem-Fix#gh-dark-mode-only">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=superboom12s&repo=DecimalProblem-Fix&theme=radical#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/superboom12s/PC-Tester#gh-dark-mode-only">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=superboom12s&repo=PC-Tester&theme=radical#gh-dark-mode-only" />
+</a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=superboom12s&repo=PC-Tester&theme=radical#gh-dark-mode-only)](https://github.com/superboom12s/PC-Tester#gh-dark-mode-only)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=superboom12s&repo=PC-Tester&theme=catppuccin_latte#gh-light-mode-only)](https://github.com/superboom12s/PC-Tester#gh-light-mode-only)
+<a href="https://github.com/superboom12s/DecimalProblem-fix#gh-light-mode-only">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=superboom12s&repo=DecimalProblem-Fix&theme=catppuccin_latte#gh-light-mode-only" />
+</a>
+<a href="https://github.com/superboom12s/PC-Tester#gh-light-mode-only">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=superboom12s&repo=PC-Tester&theme=catppuccin_latte#gh-light-mode-only" />
+</a>
