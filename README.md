@@ -1,8 +1,10 @@
 <!-- Thanks to Anurag Hazra! -->
-<a href="https://github.com/superboom12s"><img align="center" src="https://github-readme-stats.vercel.app/api?username=superboom12s&show_icons=true&rank_icon=github&hide=contribs,prs&theme=radical#gh-dark-mode-only=true" alt="Hexade's github stats from anuraghazra <3" /></a>
-<a href="https://github.com/superboom12s"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=superboom12s&layout=compact&theme=radical#gh-dark-mode-only&hide_border=true" /></a>
+<a href="https://github.com/superboom12s?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=superboom12s&show_icons=true&rank_icon=github&hide=contribs,prs&theme=radical#gh-dark-mode-only=true" alt="Hexade's github stats from anuraghazra <3" /></a>
+<a href="https://github.com/superboom12s?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=superboom12s&layout=compact&theme=radical#gh-dark-mode-only&hide_border=true" /></a>
 <!-- Thanks to Ryo-ma! -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=superboom12s&rank=-?&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=superboom12s&rank=-?&theme=radical)](https://github.com/superboom12s?tab=repositories)
+<!-- Thanks to antonkomarev! -->
+![](https://komarev.com/ghpvc/?username=superboom12s&color=60005d&style=flat-square)
 
 # Working on:
 <a href="https://github.com/superboom12s/DNA_Data_App#gh-dark-mode-only">
