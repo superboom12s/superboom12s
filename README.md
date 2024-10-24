@@ -31,6 +31,16 @@
 <a href="https://github.com/superboom12s/DecimalProblem-fix#gh-light-mode-only">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=superboom12s&repo=DecimalProblem-Fix&theme=catppuccin_latte#gh-light-mode-only" />
 </a>
+
 <a href="https://github.com/superboom12s/PC-Tester#gh-light-mode-only">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=superboom12s&repo=PC-Tester&theme=catppuccin_latte#gh-light-mode-only" />
+</a>
+
+# Motivation status:
+<a href="https://github.com/superboom12s?tab=repositories#gh-dark-mode-only">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=superboom12s&theme=radical"/>
+</a>
+
+<a href="https://github.com/superboom12s?tab=repositories#gh-light-mode-only">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=superboom12s&theme=catppuccin_latte"/>
 </a>
