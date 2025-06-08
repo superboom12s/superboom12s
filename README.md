@@ -7,15 +7,16 @@
 ![](https://komarev.com/ghpvc/?username=superboom12s&color=60005d&style=flat-square)
 
 # Working on:
-<a href="https://github.com/superboom12s/DNA_Data_App#gh-dark-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=superboom12s&repo=DNA_Data_App&theme=radical#gh-dark-mode-only" />
+
+<a href="https://github.com/superboom12s/Pydepo#gh-dark-mode-only">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=superboom12s&repo=DecimalProblem-Fix&theme=radical#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/superboom12s/HexCrypt#gh-dark-mode-only">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=superboom12s&repo=HexCrypt&theme=radical#gh-dark-mode-only" />
 </a>
 
-<a href="https://github.com/superboom12s/DNA_Data_App#gh-light-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=superboom12s&repo=HexCrypt&theme=catppuccin_latte#gh-light-mode-only" />
+<a href="https://github.com/superboom12s/Pydepo#gh-light-mode-only">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=superboom12s&repo=DecimalProblem-Fix&theme=catppuccin_latte#gh-light-mode-only" />
 </a>
 <a href="https://github.com/superboom12s/HexCrypt#gh-light-mode-only">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=superboom12s&repo=HexCrypt&theme=catppuccin_latte#gh-light-mode-only" />
@@ -23,15 +24,15 @@
 
 
 # Amazing proyects:
-<a href="https://github.com/superboom12s/DecimalProblem-Fix#gh-dark-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=superboom12s&repo=DecimalProblem-Fix&theme=radical#gh-dark-mode-only" />
+<a href="https://github.com/superboom12s/DNA_Data_App#gh-dark-mode-only">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=superboom12s&repo=DNA_Data_App&theme=radical#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/superboom12s/PC-Tester#gh-dark-mode-only">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=superboom12s&repo=PC-Tester&theme=radical#gh-dark-mode-only" />
 </a>
 
-<a href="https://github.com/superboom12s/DecimalProblem-fix#gh-light-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=superboom12s&repo=DecimalProblem-Fix&theme=catppuccin_latte#gh-light-mode-only" />
+<a href="https://github.com/superboom12s/DNA_Data_App#gh-light-mode-only">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=superboom12s&repo=HexCrypt&theme=catppuccin_latte#gh-light-mode-only" />
 </a>
 
 <a href="https://github.com/superboom12s/PC-Tester#gh-light-mode-only">
