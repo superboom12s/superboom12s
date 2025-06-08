@@ -4,7 +4,7 @@
 <!-- Thanks to Ryo-ma! -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=superboom12s&rank=-?&theme=radical)](https://github.com/superboom12s?tab=repositories)
 <!-- Thanks to antonkomarev! -->
-![](https://komarev.com/ghpvc/?username=superboom12s&color=60005d&style=flat-square)
+![](https://komarev.com/ghpvc/?username=superboom12s&color=60005d&style=flat)
 
 # Working on:
 
