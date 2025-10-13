@@ -8,15 +8,15 @@
 
 # Working on:
 ### An amazing project that is private right now and...
-<a href="https://github.com/superboom12s/Pydepo#gh-dark-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=superboom12s&repo=DecimalProblem-Fix&theme=radical#gh-dark-mode-only" />
+<a href="https://github.com/superboom12s/Nanaka-website#gh-dark-mode-only">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=superboom12s&repo=Nanaka-website&theme=radical#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/superboom12s/HexCrypt#gh-dark-mode-only">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=superboom12s&repo=HexCrypt&theme=radical#gh-dark-mode-only" />
 </a>
 
-<a href="https://github.com/superboom12s/Pydepo#gh-light-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=superboom12s&repo=DecimalProblem-Fix&theme=catppuccin_latte#gh-light-mode-only" />
+<a href="https://github.com/superboom12s/Nanaka-website#gh-light-mode-only">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=superboom12s&repo=Nanaka-website&theme=catppuccin_latte#gh-light-mode-only" />
 </a>
 <a href="https://github.com/superboom12s/HexCrypt#gh-light-mode-only">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=superboom12s&repo=HexCrypt&theme=catppuccin_latte#gh-light-mode-only" />
