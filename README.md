@@ -27,16 +27,16 @@
 <a href="https://github.com/superboom12s/DNA_Data_App#gh-dark-mode-only">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=superboom12s&repo=DNA_Data_App&theme=radical#gh-dark-mode-only" />
 </a>
-<a href="https://github.com/superboom12s/PC-Tester#gh-dark-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=superboom12s&repo=PC-Tester&theme=radical#gh-dark-mode-only" />
+<a href="https://github.com/superboom12s/Pydepo#gh-dark-mode-only">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=superboom12s&repo=Pydepo&theme=radical#gh-dark-mode-only" />
 </a>
 
 <a href="https://github.com/superboom12s/DNA_Data_App#gh-light-mode-only">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=superboom12s&repo=HexCrypt&theme=catppuccin_latte#gh-light-mode-only" />
 </a>
 
-<a href="https://github.com/superboom12s/PC-Tester#gh-light-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=superboom12s&repo=PC-Tester&theme=catppuccin_latte#gh-light-mode-only" />
+<a href="https://github.com/superboom12s/Pydepo#gh-light-mode-only">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=superboom12s&repo=Pydepo&theme=catppuccin_latte#gh-light-mode-only" />
 </a>
 
 # Motivation status:
