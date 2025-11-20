@@ -47,3 +47,9 @@
 <a href="https://github.com/superboom12s?tab=repositories#gh-light-mode-only">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=superboom12s&theme=catppuccin_latte"/>
 </a>
+
+## Contact me:
+Telegram: @Melagon12  
+Signal: @Melagon.12  
+Email: borjored@tuta.io  
+> And feel free to tell me just whatever you want.
