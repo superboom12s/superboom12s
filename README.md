@@ -52,4 +52,4 @@
 Telegram: @Melagon12  
 Signal: @Melagon.12  
 Email: borjored@tuta.io  
-> And feel free to tell me just whatever you want.
+> Feel free to tell me just whatever you want!
