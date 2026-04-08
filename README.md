@@ -1,6 +1,7 @@
 <!-- Thanks to Anurag Hazra! -->
-<a href="https://github.com/superboom12s?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=superboom12s&show_icons=true&rank_icon=github&hide=contribs,prs&theme=radical#gh-dark-mode-only=true" alt="Hexade's github stats from anuraghazra <3" /></a>
-<a href="https://github.com/superboom12s?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=superboom12s&layout=compact&theme=radical#gh-dark-mode-only&hide_border=true" /></a>
+<!-- Temporary using other API provider found in GitHub issues. Thanks for that. The original cards are just not working. -->
+<a href="https://github.com/superboom12s?tab=repositories"><img align="center" src="https://github-readme-stats.shion.dev/api?username=superboom12s&show_icons=true&rank_icon=github&hide=contribs,prs&theme=radical#gh-dark-mode-only=true" alt="Hexade's github stats from anuraghazra <3" /></a>
+<a href="https://github.com/superboom12s?tab=repositories"><img align="center" src="https://github-readme-stats.shion.dev/api/top-langs/?username=superboom12s&layout=compact&theme=radical#gh-dark-mode-only&hide_border=true" /></a>
 <!-- Thanks to Ryo-ma! -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=superboom12s&rank=-?&theme=radical)](https://github.com/superboom12s?tab=repositories)
 <!-- Thanks to antonkomarev! -->
