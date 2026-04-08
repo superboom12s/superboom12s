@@ -8,37 +8,39 @@
 <!-- Thanks to antonkomarev! -->
 ![](https://komarev.com/ghpvc/?username=superboom12s&color=60005d&style=flat)
 
+<!-- Temporary using other API provider found in GitHub issues. Thanks for that. The original cards are just not working. -->
 # Working on:
-### An amazing project that is private right now and...
+### Note that the most of stuff I am actually working on is private right now.
+> I apologize for this. In no time the work that I own in my profile will be public for everyone to use! For now, these projects are currently supported and being worked on right now. There might be not lots of commits right now as I don't have much time here in Italy and I am focusing on other projects, but I have intentions of rebuilding these pinned ones whenever I have some time.
 <a href="https://github.com/superboom12s/Nanaka-website#gh-dark-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=superboom12s&repo=Nanaka-website&theme=radical#gh-dark-mode-only" />
+  <img align="center" src="https://github-readme-stats.shion.dev/api/pin/?username=superboom12s&repo=Nanaka-website&theme=radical#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/superboom12s/HexCrypt#gh-dark-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=superboom12s&repo=HexCrypt&theme=radical#gh-dark-mode-only" />
+  <img align="center" src="https://github-readme-stats.shion.dev/api/pin/?username=superboom12s&repo=HexCrypt&theme=radical#gh-dark-mode-only" />
 </a>
 
 <a href="https://github.com/superboom12s/Nanaka-website#gh-light-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=superboom12s&repo=Nanaka-website&theme=catppuccin_latte#gh-light-mode-only" />
+  <img align="center" src="https://github-readme-stats.shion.dev/api/pin/?username=superboom12s&repo=Nanaka-website&theme=catppuccin_latte#gh-light-mode-only" />
 </a>
 <a href="https://github.com/superboom12s/HexCrypt#gh-light-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=superboom12s&repo=HexCrypt&theme=catppuccin_latte#gh-light-mode-only" />
+  <img align="center" src="https://github-readme-stats.shion.dev/api/pin/?username=superboom12s&repo=HexCrypt&theme=catppuccin_latte#gh-light-mode-only" />
 </a>
 
 
-# Amazing proyects:
+# Other projects of mine:
 <a href="https://github.com/superboom12s/DNA_Data_App#gh-dark-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=superboom12s&repo=DNA_Data_App&theme=radical#gh-dark-mode-only" />
+  <img align="center" src="https://github-readme-stats.shion.dev/api/pin/?username=superboom12s&repo=DNA_Data_App&theme=radical#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/superboom12s/Pydepo#gh-dark-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=superboom12s&repo=Pydepo&theme=radical#gh-dark-mode-only" />
+  <img align="center" src="https://github-readme-stats.shion.dev/api/pin/?username=superboom12s&repo=Pydepo&theme=radical#gh-dark-mode-only" />
 </a>
 
 <a href="https://github.com/superboom12s/DNA_Data_App#gh-light-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=superboom12s&repo=HexCrypt&theme=catppuccin_latte#gh-light-mode-only" />
+  <img align="center" src="https://github-readme-stats.shion.dev/api/pin/?username=superboom12s&repo=HexCrypt&theme=catppuccin_latte#gh-light-mode-only" />
 </a>
 
 <a href="https://github.com/superboom12s/Pydepo#gh-light-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=superboom12s&repo=Pydepo&theme=catppuccin_latte#gh-light-mode-only" />
+  <img align="center" src="https://github-readme-stats.shion.dev/api/pin/?username=superboom12s&repo=Pydepo&theme=catppuccin_latte#gh-light-mode-only" />
 </a>
 
 # Motivation status:
