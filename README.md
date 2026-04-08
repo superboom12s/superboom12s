@@ -3,7 +3,8 @@
 <a href="https://github.com/superboom12s?tab=repositories"><img align="center" src="https://github-readme-stats.shion.dev/api?username=superboom12s&show_icons=true&rank_icon=github&hide=contribs,prs&theme=radical#gh-dark-mode-only=true" alt="Hexade's github stats from anuraghazra <3" /></a>
 <a href="https://github.com/superboom12s?tab=repositories"><img align="center" src="https://github-readme-stats.shion.dev/api/top-langs/?username=superboom12s&layout=compact&theme=radical#gh-dark-mode-only&hide_border=true" /></a>
 <!-- Thanks to Ryo-ma! -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=superboom12s&rank=-?&theme=radical)](https://github.com/superboom12s?tab=repositories)
+<!-- Currently using a different provider for side loading, thanks for this! -->
+[![trophy](https://github-profile-trophy-tawny.vercel.app/?username=superboom12s&rank=-?&theme=radical)](https://github.com/superboom12s?tab=repositories)
 <!-- Thanks to antonkomarev! -->
 ![](https://komarev.com/ghpvc/?username=superboom12s&color=60005d&style=flat)
 
