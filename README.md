@@ -52,6 +52,17 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=superboom12s&theme=catppuccin_latte"/>
 </a>
 
+## Focusing on:
+
+I currently feel really interested in C++, therefore, I am trying to learn as much as possible as I do also develop one of my side projects on this language, being the biggest project of my own.
+> Why C++? Well, probably I haven't got enough time to hate it and it is fair to do so, I mean, compared to other languages, even some of the simplest things are a nightmare, but that is exactly why I love it.
+> You see, I have something with optimization, maximun and innecessary optimization most of the time... But for some reason I love it, this is motivation enough for me to work in C++. Guess I could use C as well, but after learning most of the basics and doing some stuff with it, I... I just prefer C++ for now.
+In the other hand, I am also focusing on web development, specially with React and React Native. Not that I like it much, but my current job is all about it... At the very least, I find React (specially Native) interesting, it is kind of different of just using HTML/CSS and stuff.
+
+In the future, I'll probably learn Assembly or low-level programming in general. I feel kind of interested, rather than other high-level stuff.
+
+Just remember than my goal is not entirely to be a developer, I want to be a sysAdmin some day, so most of the stuff I actually work on won't ever be here, unless I work on some admin tools or so.
+
 ## Contact me:
 Telegram: @Melagon12  
 Signal: @Melagon.12  
