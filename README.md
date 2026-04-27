@@ -63,6 +63,12 @@ In the future, I'll probably learn Assembly or low-level programming in general.
 
 Just remember than my goal is not entirely to be a developer, I want to be a sysAdmin some day, so most of the stuff I actually work on won't ever be here, unless I work on some admin tools or so.
 
+## Could you participate or contribute in my project?
+
+I guess? Even thouhg I might not be uploading that much stuff on GitHub itself, I do already participate in a couple of interesting projects.
+I have little of time right now and expect to be like this for some time, but I am **open** to any requests, even completely for free if your project is free!
+However, I would be kind of confused, honestly, I'm barely a junior dev! But at the very least I have been a teacher for almost three years now (voluntary), so I might be able to help with public presentations or speeches, if that's what you need.
+
 ## Contact me:
 Telegram: @Melagon12  
 Signal: @Melagon.12  
